@@ -71,6 +71,4 @@ class USIWire {
     inline size_t write(int n) { return write((uint8_t)n); }
 };
 
-extern USIWire Wire;
-
 #endif

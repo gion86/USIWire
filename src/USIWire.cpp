@@ -288,7 +288,3 @@ void USIWire::onRequest( void (*function)(void) ) {
 uint8_t USIWire::isActive(void) {
   return USI_TWI_Slave_Is_Active();
 }
-
-// Preinstantiate Objects //////////////////////////////////////////////////////
-
-USIWire Wire = USIWire();
