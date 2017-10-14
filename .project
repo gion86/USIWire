@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>TinyWireM</name>
+	<name>USIWire</name>
 	<comment></comment>
 	<projects>
 		<project>ATTinyCore</project>
-		<project>AttinyCore</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
